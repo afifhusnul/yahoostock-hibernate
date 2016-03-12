@@ -1,0 +1,7 @@
+com\ajar\StockDownloader.class
+com\ajar\Run.class
+com\ajar\config\HibernateSessionManager.class
+com\ajar\entity\Tickler.class
+com\ajar\TestConn.class
+com\ajar\entity\TrxStock.class
+com\ajar\Stock.class
